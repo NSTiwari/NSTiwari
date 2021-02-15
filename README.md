@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Nitin Tiwari.
 
+![](https://komarev.com/ghpvc/?username=NSTiwari&color=dc143c)
 
 - 🔭 I’m currently a final year undergraduate in Information Technology.
 - 🌱 Exploring Deep Learning and Computer Vision.
