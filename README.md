@@ -18,6 +18,44 @@ Following are some of my favorite repositories that I have contributed to and/or
 Create a video game controller that plays the game for you by detecting and classifying human poses. This project is an end-to-end tutoial to train a pose classifier model and deploy it using TF Lite.
 [<img src="https://github.com/NSTiwari/Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite/blob/main/Output.gif" width="600">]
 
+##### 📰 [Colab Notebook](https://github.com/NSTiwari/Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite/blob/main/Pose_Classification_using_TensorFlow_Lite.ipynb)
+##### 👨‍💻 [Repository](https://github.com/NSTiwari/Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite)
 
+---
+
+### Real-time Object Detection in Video Games using TensorFlow
+Another cool project where Computer Vision meets video games. This project lets you do object detection in Grand Theft Auto: Vice City, in real-time. 
+[<img src="https://github.com/NSTiwari/GTA-Vice-City-Object-Detection-using-TensorFlow/blob/main/Output.gif" width="600">]
+
+##### 📰 [Colab Notebook](https://github.com/NSTiwari/GTA-Vice-City-Object-Detection-using-TensorFlow/blob/main/Vice_City_Object_Detection_using_TensorFlow.ipynb)
+##### 👨‍💻 [Repository](https://github.com/NSTiwari/GTA-Vice-City-Object-Detection-using-TensorFlow)
+
+---
+
+### Cartoon Classification on Android using TensorFlow Lite
+A fun image classification Android app built using TF Lite that classifies cartoons.
+[<img src="https://github.com/NSTiwari/Cartoon-Classification-on-Android-using-TF-Lite/blob/main/app/src/main/res/drawable/output.gif" width="600">]
+
+##### 👨‍💻 [Repository](https://github.com/NSTiwari/Cartoon-Classification-on-Android-using-TF-Lite)
+
+---
+
+### TensorFlow.js Custom Object Detection
+An end-to-end project on training a custom object detection model and deploying it on the browser using TensorFlow.js.
+[<img src="https://github.com/NSTiwari/TensorFlow.js-Custom-Object-Detection/blob/main/images/output.jpg" width="600">]
+
+##### 📰 [Colab Notebook](https://github.com/NSTiwari/TensorFlow.js-Custom-Object-Detection/blob/main/Custom_Object_Detection_using_TensorFlow_js.ipynb)
+##### 👨‍💻 [Repository](https://github.com/NSTiwari/TensorFlow.js-Custom-Object-Detection)
+
+---
+
+### Custom Text Classification on Android using TensorFlow Lite
+Train a custom text classifier and deploy it on an Android app using TF Lite.
+[<img src="https://github.com/NSTiwari/Custom-Text-Classification-on-Android-using-TF-Lite/blob/master/Output.gif" width="600">]
+
+##### 📰 [Colab Notebook](https://github.com/NSTiwari/Custom-Text-Classification-on-Android-using-TF-Lite/blob/master/Custom_Text_Classification.ipynb)
+##### 👨‍💻 [Repository](https://github.com/NSTiwari/Custom-Text-Classification-on-Android-using-TF-Lite)
+
+---
 
 
