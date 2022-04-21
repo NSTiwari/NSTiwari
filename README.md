@@ -82,12 +82,13 @@ Train a YOLOv3 Custom Object Detection model and inference the detections using 
 ##### 📰 [Colab Notebook](https://github.com/NSTiwari/YOLOv3-Custom-Object-Detection/blob/main/YOLOv3_Custom_Object_Detection.ipynb)
 ##### 👨‍💻 [Repository](https://github.com/NSTiwari/YOLOv3-Custom-Object-Detection)
 
+---
 
 ### YOLOv3 to TF Lite Conversion
 Convert YOLOv3 based models into TF Lite version using Python and inference the results using OpenCV.
 
 
-<img src="https://github.com/NSTiwari/YOLOv3-to-TensorFlow-Lite-Conversion/blob/main/output.jpg" width = "300" height = "250">
+<img src="https://github.com/NSTiwari/YOLOv3-to-TensorFlow-Lite-Conversion/blob/main/output.jpg" width = "350" height = "250">
 
 ##### 📰 [Article](https://medium.com/tfug-mumbai-weekly/yolov3-to-tensorflow-lite-conversion-4602cec5c239)
 ##### 📰 [Colab Notebook](https://github.com/NSTiwari/YOLOv3-to-TensorFlow-Lite-Conversion/blob/main/YOLOv3_to_TFLite_Conversion.ipynb)
