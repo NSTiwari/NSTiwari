@@ -76,7 +76,7 @@ Train a custom text classifier and deploy it on an Android app using TF Lite.
 Train a YOLOv3 Custom Object Detection model and inference the detections using Python and OpenCV.
 
 
-<img src="https://github.com/NSTiwari/YOLOv3-Custom-Object-Detection/blob/main/image/output.jpg" width = "250" height = "250">
+<img src="https://github.com/NSTiwari/YOLOv3-Custom-Object-Detection/blob/main/image/output.jpg" width = "300" height = "250">
 
 ##### 📰 [Article](https://tiwarinitin1999.medium.com/yolov3-custom-object-detection-with-transfer-learning-47186c8f166d)
 ##### 📰 [Colab Notebook](https://github.com/NSTiwari/YOLOv3-Custom-Object-Detection/blob/main/YOLOv3_Custom_Object_Detection.ipynb)
