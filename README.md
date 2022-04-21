@@ -17,7 +17,7 @@ Following are some of my favorite repositories that I have contributed to and/or
 ### Video Game Control using Pose Classification and TensorFlow Lite
 Create a video game controller that plays the game for you by detecting and classifying human poses. This project is an end-to-end tutoial to train a pose classifier model and deploy it using TF Lite.
 
-[<img src="https://github.com/NSTiwari/Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite/blob/main/Output.gif" width="600">]
+<img src="https://github.com/NSTiwari/Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite/blob/main/Output.gif" width="600">
 
 
 ##### 📰 [Colab Notebook](https://github.com/NSTiwari/Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite/blob/main/Pose_Classification_using_TensorFlow_Lite.ipynb)
@@ -61,7 +61,7 @@ An end-to-end project on training a custom object detection model and deploying 
 Train a custom text classifier and deploy it on an Android app using TF Lite.
 
 
-<img src="https://github.com/NSTiwari/Custom-Text-Classification-on-Android-using-TF-Lite/blob/master/Output.gif" height="300" width="300">
+<img src="https://github.com/NSTiwari/Custom-Text-Classification-on-Android-using-TF-Lite/blob/master/Output2.gif">
 
 ##### 📰 [Colab Notebook](https://github.com/NSTiwari/Custom-Text-Classification-on-Android-using-TF-Lite/blob/master/Custom_Text_Classification.ipynb)
 ##### 👨‍💻 [Repository](https://github.com/NSTiwari/Custom-Text-Classification-on-Android-using-TF-Lite)
