@@ -42,7 +42,7 @@ Another cool project where Computer Vision meets video games. This project lets 
 A fun image classification Android app built using TF Lite that classifies cartoons.
 
 
-<img src="https://github.com/NSTiwari/Cartoon-Classification-on-Android-using-TF-Lite/blob/main/app/src/main/res/drawable/output2.gif">
+<img src="https://github.com/NSTiwari/Cartoon-Classification-on-Android-using-TF-Lite/blob/main/app/src/main/res/drawable/Output2.gif">
 
 ##### 👨‍💻 [Repository](https://github.com/NSTiwari/Cartoon-Classification-on-Android-using-TF-Lite)
 
