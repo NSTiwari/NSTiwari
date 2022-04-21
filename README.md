@@ -44,6 +44,7 @@ A fun image classification Android app built using TF Lite that classifies carto
 
 <img src="https://github.com/NSTiwari/Cartoon-Classification-on-Android-using-TF-Lite/blob/main/app/src/main/res/drawable/Output2.gif">
 
+##### 📰 [Article](https://medium.com/tfug-mumbai-weekly/custom-image-classification-on-android-using-tensorflow-lite-9f9b3917a26f)
 ##### 👨‍💻 [Repository](https://github.com/NSTiwari/Cartoon-Classification-on-Android-using-TF-Lite)
 
 ---
@@ -53,6 +54,7 @@ An end-to-end project on training a custom object detection model and deploying 
 
 <img src="https://github.com/NSTiwari/TensorFlow.js-Custom-Object-Detection/blob/main/images/output.jpg" width="600">
 
+##### 📰 [Article](https://www.analyticsvidhya.com/blog/2021/12/custom-object-detection-on-the-browser-using-tensorflow-js/)
 ##### 📰 [Colab Notebook](https://github.com/NSTiwari/TensorFlow.js-Custom-Object-Detection/blob/main/Custom_Object_Detection_using_TensorFlow_js.ipynb)
 ##### 👨‍💻 [Repository](https://github.com/NSTiwari/TensorFlow.js-Custom-Object-Detection)
 
@@ -64,6 +66,7 @@ Train a custom text classifier and deploy it on an Android app using TF Lite.
 
 <img src="https://github.com/NSTiwari/Custom-Text-Classification-on-Android-using-TF-Lite/blob/master/Output2.gif">
 
+##### 📰 [Article](https://medium.com/tfug-mumbai-weekly/custom-text-classification-on-android-using-tensorflow-lite-4fcbf132c10b)
 ##### 📰 [Colab Notebook](https://github.com/NSTiwari/Custom-Text-Classification-on-Android-using-TF-Lite/blob/master/Custom_Text_Classification.ipynb)
 ##### 👨‍💻 [Repository](https://github.com/NSTiwari/Custom-Text-Classification-on-Android-using-TF-Lite)
 
