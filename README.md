@@ -12,4 +12,12 @@
 
 Following are some of my favorite repositories that I have contributed to and/or contribute to.
 
+## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> My projects
+
+### Video Game Control using Pose Classification and TensorFlow Lite
+Create a video game controller that plays the game for you by detecting and classifying human poses. This project is an end-to-end tutoial to train a pose classifier model and deploy it using TF Lite.
+![GitHub Logo](www.github.com/NSTiwari/Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite/Output.gif)
+
+
+
 
