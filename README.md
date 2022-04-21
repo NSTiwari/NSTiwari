@@ -40,6 +40,8 @@ Another cool project where Computer Vision meets video games. This project lets 
 
 ### Cartoon Classification on Android using TensorFlow Lite
 A fun image classification Android app built using TF Lite that classifies cartoons.
+
+
 <img src="https://github.com/NSTiwari/Cartoon-Classification-on-Android-using-TF-Lite/blob/main/app/src/main/res/drawable/output.gif" height="300" width="300">
 
 ##### 👨‍💻 [Repository](https://github.com/NSTiwari/Cartoon-Classification-on-Android-using-TF-Lite)
@@ -57,6 +59,8 @@ An end-to-end project on training a custom object detection model and deploying 
 
 ### Custom Text Classification on Android using TensorFlow Lite
 Train a custom text classifier and deploy it on an Android app using TF Lite.
+
+
 <img src="https://github.com/NSTiwari/Custom-Text-Classification-on-Android-using-TF-Lite/blob/master/Output.gif" height="300" width="300">
 
 ##### 📰 [Colab Notebook](https://github.com/NSTiwari/Custom-Text-Classification-on-Android-using-TF-Lite/blob/master/Custom_Text_Classification.ipynb)
