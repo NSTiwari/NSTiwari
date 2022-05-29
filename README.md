@@ -62,7 +62,7 @@ An end-to-end project on training a custom object detection model and deploying 
 
 ### Visual Data Extractor using TensorFlow
 A Computer Vision application built using TensorFlow for businesses that require data pipelines for extraction of visual data (graphs and charts) from images and dashboards.
-<img src="https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow/blob/master/Output.gif">
+<img src="https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow/blob/main/Output.gif">
 
 ##### 📰 [Colab Notebook](https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow/blob/main/Visual-Data-Extractor-using-TensorFlow.ipynb)
 ##### 👨‍💻 [Repository](https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow)
