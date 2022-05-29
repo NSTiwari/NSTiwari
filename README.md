@@ -5,7 +5,7 @@
 - 🔭 Software Engineer | Larsen & Toubro Infotech
 - 🌱 Exploring Deep Learning and Computer Vision.
 - 👯 I’m a Coursera beta-tester and test some really exciting courses before they are released to the public. 
-- 💬 I'm also a technical writer and write blogs on Machine Learning and Deep Learning applications. Some of my blogs have been published by Analytics Vidhya on [Medium](https://medium.com/@tiwarinitin1999).
+- 💬 I'm also a technical writer and write blogs on Machine Learning and Deep Learning applications on [Medium](https://medium.com/@tiwarinitin1999).
 - 📫 If you think I can help you, let's connect and talk on [LinkedIn](https://www.linkedin.com/in/tiwari-nitin/).
 
 <img src="https://github-readme-stats.vercel.app/api?username=NSTiwari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
@@ -62,7 +62,9 @@ An end-to-end project on training a custom object detection model and deploying 
 
 ### Visual Data Extractor using TensorFlow
 A Computer Vision application built using TensorFlow for businesses that require data pipelines for extraction of visual data (graphs and charts) from images and dashboards.
-<img src="https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow/blob/main/Output.gif">
+
+
+<img src="https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow/blob/main/Output.gif" width = "300">
 
 ##### 📰 [Colab Notebook](https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow/blob/main/Visual-Data-Extractor-using-TensorFlow.ipynb)
 ##### 👨‍💻 [Repository](https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow)
