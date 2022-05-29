@@ -65,7 +65,7 @@ A Computer Vision application built using TensorFlow for businesses that require
 
 
 
-<img src="https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow/blob/main/Output.gif" width = "300">
+<img src="https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow/blob/main/Output.gif" width = "600">
 
 ##### 📰 [Colab Notebook](https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow/blob/main/Visual_Data_Extractor_using_TensorFlow.ipynb)
 ##### 👨‍💻 [Repository](https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow)
