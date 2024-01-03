@@ -38,14 +38,12 @@ A cool project where Computer Vision meets video games. This project lets you do
 
 ---
 
-### Cartoon Classification on Android using TensorFlow Lite
+### [Cartoon Classification on Android using TensorFlow Lite](https://github.com/NSTiwari/Cartoon-Classification-on-Android-using-TF-Lite)
 A fun image classification Android app built using TF Lite that classifies cartoons.
 
 
 <img src="https://github.com/NSTiwari/Cartoon-Classification-on-Android-using-TF-Lite/blob/main/app/src/main/res/drawable/Output2.gif">
 
-##### 📰 [Article](https://medium.com/tfug-mumbai-weekly/custom-image-classification-on-android-using-tensorflow-lite-9f9b3917a26f)
-##### 👨‍💻 [Repository](https://github.com/NSTiwari/Cartoon-Classification-on-Android-using-TF-Lite)
 
 ---
 
@@ -64,46 +62,31 @@ An end-to-end project on training a custom object detection model and deploying 
 A Computer Vision application built using TensorFlow for businesses that require data pipelines for extraction of visual data (graphs and charts) from images and dashboards.
 
 
-
 <img src="https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow/blob/main/Output.gif" width = "600">
-
-
 
 ---
 
-### Custom Text Classification on Android using TensorFlow Lite
+### [Custom Text Classification on Android using TensorFlow Lite](https://github.com/NSTiwari/Custom-Text-Classification-on-Android-using-TF-Lite)
 Train a custom text classifier and deploy it on an Android app using TF Lite.
 
 
 <img src="https://github.com/NSTiwari/Custom-Text-Classification-on-Android-using-TF-Lite/blob/master/Output2.gif">
 
-##### 📰 [Article](https://medium.com/tfug-mumbai-weekly/custom-text-classification-on-android-using-tensorflow-lite-4fcbf132c10b)
-##### 📰 [Colab Notebook](https://github.com/NSTiwari/Custom-Text-Classification-on-Android-using-TF-Lite/blob/master/Custom_Text_Classification.ipynb)
-##### 👨‍💻 [Repository](https://github.com/NSTiwari/Custom-Text-Classification-on-Android-using-TF-Lite)
-
 ---
 
-### YOLOv3 Custom Object Detection
+### [YOLOv3 Custom Object Detection](https://github.com/NSTiwari/YOLOv3-Custom-Object-Detection)
 Train a YOLOv3 Custom Object Detection model and inference the detections using Python and OpenCV.
 
 
 <img src="https://github.com/NSTiwari/YOLOv3-Custom-Object-Detection/blob/main/image/output.jpg" width = "300" height = "250">
 
-##### 📰 [Article](https://tiwarinitin1999.medium.com/yolov3-custom-object-detection-with-transfer-learning-47186c8f166d)
-##### 📰 [Colab Notebook](https://github.com/NSTiwari/YOLOv3-Custom-Object-Detection/blob/main/YOLOv3_Custom_Object_Detection.ipynb)
-##### 👨‍💻 [Repository](https://github.com/NSTiwari/YOLOv3-Custom-Object-Detection)
 
 ---
 
-### YOLOv3 to TF Lite Conversion
+### [YOLOv3 to TF Lite Conversion](https://github.com/NSTiwari/YOLOv3-to-TensorFlow-Lite-Conversion)
 Convert YOLOv3 based models into TF Lite version using Python and inference the results using OpenCV.
 
 
 <img src="https://github.com/NSTiwari/YOLOv3-to-TensorFlow-Lite-Conversion/blob/main/output.jpg" width = "350" height = "250">
-
-##### 📰 [Article](https://medium.com/tfug-mumbai-weekly/yolov3-to-tensorflow-lite-conversion-4602cec5c239)
-##### 📰 [Colab Notebook](https://github.com/NSTiwari/YOLOv3-to-TensorFlow-Lite-Conversion/blob/main/YOLOv3_to_TFLite_Conversion.ipynb)
-##### 👨‍💻 [Repository](https://github.com/NSTiwari/YOLOv3-to-TensorFlow-Lite-Conversion)
-
 
 
