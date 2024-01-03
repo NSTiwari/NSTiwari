@@ -22,6 +22,7 @@ As an initiative to solve for environment, this project is an implementation of 
 
 <img src="https://github.com/NSTiwari/TFJS-TFLite-Object-Detection/blob/main/real-time-waste-detection.gif" width="300" height="500">
 
+---
 
 ### [Video Game Control using Pose Classification and TensorFlow Lite](https://github.com/NSTiwari/Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite)
 Create a video game controller that plays the game for you by detecting and classifying human poses. This project is an end-to-end tutoial to train a pose classifier model and deploy it using TF Lite.
@@ -31,7 +32,7 @@ Create a video game controller that plays the game for you by detecting and clas
 ---
 
 ### [Real-time Object Detection in Video Games using TensorFlow](https://github.com/NSTiwari/GTA-Vice-City-Object-Detection-using-TensorFlow)
-Another cool project where Computer Vision meets video games. This project lets you do object detection in Grand Theft Auto: Vice City, in real-time. 
+A cool project where Computer Vision meets video games. This project lets you do object detection in Grand Theft Auto: Vice City, in real-time. 
 
 <img src="https://github.com/NSTiwari/GTA-Vice-City-Object-Detection-using-TensorFlow/blob/main/Output.gif" width="600">
 
