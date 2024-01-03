@@ -21,7 +21,9 @@ Following are some of my favorite repositories that I have contributed to and/or
 ### Real-time waste detection on the browser using TF.js-TFLite
 As an initiative to solve for environment, this project is an implementation of detecting various categories of waste in real-time by deploying a TF Lite model directly on the browser.
 
-<img src="https://github.com/NSTiwari/TFJS-TFLite-Object-Detection/blob/main/real-time-waste-detection.gif" width="600">
+<img src="https://github.com/NSTiwari/TFJS-TFLite-Object-Detection/blob/main/real-time-waste-detection.gif" width="600" height="800">
+
+
 ##### 👨‍💻 [Repository](https://github.com/NSTiwari/TFJS-TFLite-Object-Detection)
 
 ### Video Game Control using Pose Classification and TensorFlow Lite
