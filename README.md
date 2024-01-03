@@ -30,16 +30,10 @@ Create a video game controller that plays the game for you by detecting and clas
 
 ---
 
-### Real-time Object Detection in Video Games using TensorFlow
+### [Real-time Object Detection in Video Games using TensorFlow](https://github.com/NSTiwari/GTA-Vice-City-Object-Detection-using-TensorFlow)
 Another cool project where Computer Vision meets video games. This project lets you do object detection in Grand Theft Auto: Vice City, in real-time. 
 
 <img src="https://github.com/NSTiwari/GTA-Vice-City-Object-Detection-using-TensorFlow/blob/main/Output.gif" width="600">
-
-
-
-
-##### 📰 [Colab Notebook](https://github.com/NSTiwari/GTA-Vice-City-Object-Detection-using-TensorFlow/blob/main/Vice_City_Object_Detection_using_TensorFlow.ipynb)
-##### 👨‍💻 [Repository](https://github.com/NSTiwari/GTA-Vice-City-Object-Detection-using-TensorFlow)
 
 ---
 
@@ -65,15 +59,14 @@ An end-to-end project on training a custom object detection model and deploying 
 
 ---
 
-### Visual Data Extractor using TensorFlow
+### [Visual Data Extractor using TensorFlow](https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow)
 A Computer Vision application built using TensorFlow for businesses that require data pipelines for extraction of visual data (graphs and charts) from images and dashboards.
 
 
 
 <img src="https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow/blob/main/Output.gif" width = "600">
 
-##### 📰 [Colab Notebook](https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow/blob/main/Visual_Data_Extractor_using_TensorFlow.ipynb)
-##### 👨‍💻 [Repository](https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow)
+
 
 ---
 
