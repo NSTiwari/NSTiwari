@@ -52,10 +52,6 @@ An end-to-end project on training a custom object detection model and deploying 
 
 <img src="https://github.com/NSTiwari/TensorFlow.js-Custom-Object-Detection/blob/main/images/output.jpg" width="600">
 
-##### 📰 [Article](https://www.analyticsvidhya.com/blog/2021/12/custom-object-detection-on-the-browser-using-tensorflow-js/)
-##### 📰 [Colab Notebook](https://github.com/NSTiwari/TensorFlow.js-Custom-Object-Detection/blob/main/Custom_Object_Detection_using_TensorFlow_js.ipynb)
-##### 👨‍💻 [Repository](https://github.com/NSTiwari/TensorFlow.js-Custom-Object-Detection)
-
 ---
 
 ### [Visual Data Extractor using TensorFlow](https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow)
