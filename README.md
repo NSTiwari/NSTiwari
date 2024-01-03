@@ -6,9 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=NSTiwari&color=dc143c)
 
-- 🔭 Software Engineer | Larsen & Toubro Infotech
-- 🌱 Exploring Deep Learning and Computer Vision.
-- 👯 I’m a Coursera beta-tester and test some really exciting courses before they are released to the public. 
+- 🔭 Software Engineer | LTIMindtree
+- 🌱 Google Developer Expert - Machine Learning
 - 💬 I'm also a technical writer and write blogs on Machine Learning and Deep Learning applications on [Medium](https://medium.com/@tiwarinitin1999).
 - 📫 If you think I can help you, let's connect and talk on [LinkedIn](https://www.linkedin.com/in/tiwari-nitin/).
 
