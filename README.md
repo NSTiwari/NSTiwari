@@ -47,7 +47,7 @@ A fun image classification Android app built using TF Lite that classifies carto
 
 ---
 
-### TensorFlow.js Custom Object Detection
+### [TensorFlow.js Custom Object Detection](https://github.com/NSTiwari/TensorFlow.js-Custom-Object-Detection)
 An end-to-end project on training a custom object detection model and deploying it on the browser using TensorFlow.js.
 
 <img src="https://github.com/NSTiwari/TensorFlow.js-Custom-Object-Detection/blob/main/images/output.jpg" width="600">
