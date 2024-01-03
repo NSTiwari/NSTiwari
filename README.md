@@ -18,6 +18,12 @@ Following are some of my favorite repositories that I have contributed to and/or
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> My projects
 
+### Real-time waste detection on the browser using TF.js-TFLite
+As an initiative to solve for environment, this project is an implementation of detecting various categories of waste in real-time by deploying a TF Lite model directly on the browser.
+
+<img src="https://github.com/NSTiwari/TFJS-TFLite-Object-Detection/blob/main/real-time-waste-detection.gif" width="600">
+##### 👨‍💻 [Repository](https://github.com/NSTiwari/TFJS-TFLite-Object-Detection)
+
 ### Video Game Control using Pose Classification and TensorFlow Lite
 Create a video game controller that plays the game for you by detecting and classifying human poses. This project is an end-to-end tutoial to train a pose classifier model and deploy it using TF Lite.
 
