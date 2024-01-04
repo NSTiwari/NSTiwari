@@ -20,7 +20,7 @@ Following are some of my favorite repositories that I have contributed to and/or
 ### [PharmaScan: Extract medicine data using Gemini Pro Vision](https://github.com/NSTiwari/TFJS-TFLite-Object-Detection)
 PharmaScan is an Android application that leverages Gemini Pro Vision model to identify medicines and provide their details such as usage, dosage, diagnosis, etc on-the-go.
 
-<img src="https://github.com/NSTiwari/Medicine-Scan-with-Gemini/assets/25379502/8a9686db-3c16-4850-aede-1d3c1822d509"/>
+<img src="https://github.com/NSTiwari/Medicine-Scan-with-Gemini/assets/25379502/8a9686db-3c16-4850-aede-1d3c1822d509" width="300" height="500"/>
 
 ---
 
