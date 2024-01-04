@@ -17,6 +17,13 @@ Following are some of my favorite repositories that I have contributed to and/or
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> My projects
 
+### [PharmaScan: Extract medicine data using Gemini Pro Vision](https://github.com/NSTiwari/TFJS-TFLite-Object-Detection)
+PharmaScan is an Android application that leverages Gemini Pro Vision model to identify medicines and provide their details such as usage, dosage, diagnosis, etc on-the-go.
+
+<img src="https://github.com/NSTiwari/Medicine-Scan-with-Gemini/assets/25379502/8a9686db-3c16-4850-aede-1d3c1822d509"/>
+
+---
+
 ### [Real-time waste detection on the browser using TF.js-TFLite](https://github.com/NSTiwari/TFJS-TFLite-Object-Detection)
 As an initiative to solve for environment, this project is an implementation of detecting various categories of waste in real-time by deploying a TF Lite model directly on the browser.
 
