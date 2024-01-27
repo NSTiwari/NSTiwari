@@ -21,6 +21,10 @@ Following are some of my favorite repositories that I have contributed to and/or
 ### [AI Architect using Stable Diffusion](https://github.com/NSTiwari/Stable-DiffusionXL-using-DreamBooth-and-LoRA)
 This project is an implementation of fine-tuning an SDXL model using DreamBooth and LoRA on custom data of interior rooms to generate designs for your home.
 
+<img src="https://github.com/NSTiwari/Stable-DiffusionXL-using-DreamBooth-and-LoRA-on-Android/blob/main/ai-architect-sdxl.gif"/>
+
+---
+
 
 ### [PharmaScan: Extract medicine data using Gemini Pro Vision](https://github.com/NSTiwari/Medicine-Scan-with-Gemini)
 PharmaScan is an Android application that leverages Gemini Pro Vision model to identify medicines and provide their details such as usage, dosage, diagnosis, etc on-the-go.
