@@ -18,6 +18,13 @@ Following are some of my favorite repositories that I have contributed to and/or
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> My projects
 
+### [FarmScan: Farmer's Assistance using Gemini](https://github.com/NSTiwari/FarmScan-using-Gemini)
+FarmScan: Farmer's Assistance is an implementation of using the Google Pro Vision model API on Android to recognize the freshness of fruits/vegetables, its approximate market value, shelf life, and a lot more insights to help farms plan cultivation/selling of crops better.
+
+<img src="https://github.com/NSTiwari/FarmScan-using-Gemini/blob/main/farmscan.gif" width="300" height="500"/>
+
+---
+
 ### [AI Architect using Stable Diffusion](https://github.com/NSTiwari/Stable-DiffusionXL-using-DreamBooth-and-LoRA)
 This project is an implementation of fine-tuning an SDXL model using DreamBooth and LoRA on custom data of interior rooms to generate designs for your home.
 
