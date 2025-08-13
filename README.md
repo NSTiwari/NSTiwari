@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=NSTiwari&color=dc143c)
 
-- 🔭 Data Scientist @ Colgate-Palmolive (India) Ltd.
+- 🔭 Senior Data Scientist at Zelar.
 - 🌱 Google Developer Expert - Machine Learning
 - 🖊️ Contributor to [Google Dev Library](https://devlibrary.withgoogle.com/authors/tiwarinitin1999)
 - 💬 I also write blogs on Machine Learning and Deep Learning applications on [Medium](https://medium.com/@tiwarinitin1999).
